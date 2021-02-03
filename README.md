@@ -3,4 +3,4 @@
 
 - 🌱 I’m Currently Learning **DevOps, ReactJS**
 
-- 📫 React Me at **nnaik@mail.usf.edu**
+- 📫 Reach ,e at **nnaik@mail.usf.edu**
