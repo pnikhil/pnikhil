@@ -3,4 +3,4 @@
 
 - 🌱 I’m Currently Learning **ReactJS and Socket.IO**
 
-- 📫 Reach me at **nnaik@mail.usf.edu**
+- 📫 Reach me at **nnaik@usf.edu**
